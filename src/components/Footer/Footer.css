@@ -1,0 +1,17 @@
+p {
+  border-top: 1px solid lightgray;
+  font-size: 12px;
+  padding: 10px;
+}
+.green{
+  background-color: green;
+  color: white
+}
+.blue{
+  background-color: blue;
+  color: white
+}
+.footer {
+  display: inline-flex;
+}
+

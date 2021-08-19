@@ -1,0 +1,12 @@
+.navbar button {
+  padding: 1px;
+  background-color: white;
+  border: none;
+  margin-left: 0px;
+}
+.navbar {
+  list-style-type: none;
+}
+.navbar li {
+  display: inline;
+}
